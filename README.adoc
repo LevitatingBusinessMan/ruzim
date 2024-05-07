@@ -1,0 +1,8 @@
+Ruzim is an http server for serving ZIM files.
+It's primarily developed to host wikimedia archives and built with https://github.com/tiny-http/tiny-http[tiny-http].
+
+= On downloading wikipedia dumps
+https://en.wikipedia.org/wiki/Wikipedia:Database_download[]
+
+== Building zim files in general
+https://wiki.openzim.org/wiki/Build_your_ZIM_file[]
